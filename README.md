@@ -10,7 +10,7 @@ I'm a second-year Computer Science student at North Dakota State University, pas
 
 ## 🏃‍♂️ Beyond the Code
 
-Outside of coding, I'm a distance runner training for my first marathon. I approach both software development and running with the mindset of making consistent progress and engaging in focused practice.
+Outside of coding, I'm a distance runner training for my first marathon. I approach challenges with the mindset of making consistent progress and engaging in focused practice.
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cohen-reiland/)
