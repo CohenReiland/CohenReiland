@@ -7,7 +7,6 @@ I'm a second-year Computer Science student at North Dakota State University, pas
 
 - 🖥️ Working On School
 - 👨‍💻 Researching Next Project
-- 📍 Searching for summer 2026 software engineering internships
 
 ## 🏃‍♂️ Beyond the Code
 
