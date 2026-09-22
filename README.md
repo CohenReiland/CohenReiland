@@ -39,13 +39,6 @@ Outside of coding, I run. I finished my first marathon this year and I'm at clos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cohen-reiland/)
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CohenReiland&show_icons=true&theme=dark&hide_border=true" alt="Cohen's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CohenReiland&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
-</p>
-
 ## 💻 Tech Stack
 
 **Languages:**  
