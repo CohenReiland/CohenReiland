@@ -7,6 +7,7 @@ I'm a third-year Computer Science student at North Dakota State University, mino
 ## 💼 Work Experience
 
 **Software Engineering Intern** — NDDOT Support Center (DOTSC & UGPTI) · _March 2026 – Present_
+
 I build administrative and report generation features for a live traffic analysis web app, using C#, ASP.NET, and SQL Server. Engineers and staff across 12 cities use it.
 
 ## 🔨 What I'm Up To
